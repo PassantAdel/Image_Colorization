@@ -11,7 +11,7 @@ This project demonstrates image colorization using an autoencoder architecture i
 - Matplotlib
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/PassantAdel/Image_Colorization.git` 
 2. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
