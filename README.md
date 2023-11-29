@@ -21,8 +21,8 @@
 2. Check the output images and predictions.
 
 ## Results
-The model achieves an accuracy of 54.55% after 10 epochs. /n
-Check the sample colorized images in the script for comparison.
+* The model achieves an accuracy of 54.55% after 10 epochs. 
+* Check the sample colorized images in the script for comparison.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
